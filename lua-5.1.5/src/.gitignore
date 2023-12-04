@@ -43,5 +43,7 @@
 *.pdb
 
 # *nix Lua binaries
+lua
+luac
 lua5.1
 luac5.1
